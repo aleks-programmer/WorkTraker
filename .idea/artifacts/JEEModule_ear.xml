@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="JEEModule:ear">
+    <output-path>$PROJECT_DIR$/JEEModule/target</output-path>
+    <properties id="ant-postprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="archive" name="JEEModule-1.0-SNAPSHOT.ear">
+      <element id="artifact" artifact-name="JEEModule:ear exploded" />
+    </root>
+  </artifact>
+</component>

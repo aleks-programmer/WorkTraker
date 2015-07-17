@@ -1,0 +1,22 @@
+<div class="loginWrapper">
+    <div>
+        Имя Пользователя: <h2 ng-bind="user.userName"></h2>
+        <div>
+            <form name="form" ng-submit="stop()" role="form">
+                <div class="form-group">
+                    <div class="taskRel">
+                        Имя задачи:
+                        <h3 ng-bind="task.taskName"></h3>
+                    </div>
+                    <div class="taskRel">
+                        Рабочее время:
+                        <h3 ng-bind="currentTime"></h3>
+                    </div>
+                </div>
+                <div class="taskRel">
+                    <button type="submit">Стоп</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

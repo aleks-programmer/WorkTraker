@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EJBModule/EJBModule.iml" filepath="$PROJECT_DIR$/EJBModule/EJBModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEEModule/JEEModule.iml" filepath="$PROJECT_DIR$/JEEModule/JEEModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebModule/WebModule.iml" filepath="$PROJECT_DIR$/WebModule/WebModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WortTraker.iml" filepath="$PROJECT_DIR$/WortTraker.iml" />
+    </modules>
+  </component>
+</project>

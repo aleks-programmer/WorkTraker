@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<jboss-deployment-structure>
+    <ear-subdeployments-isolated>false</ear-subdeployments-isolated>
+    <deployment>
+        <exclusions>
+            <module name="org.apache.log4j" slot="main"/>
+        </exclusions>
+    </deployment>
+</jboss-deployment-structure>
